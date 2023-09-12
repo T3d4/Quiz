@@ -1,4 +1,4 @@
-# Quiz Game Write-Up
+# Quiz Game
 
 ## Introduction
 Hey there! Welcome to the Quiz Game, a cool web app that lets you test your knowledge about Nigeria. This project is like a mini adventure into the world of programming. It's got some nifty stuff like classes, switch statements, and try-catch-finally blocks that make it all tick.
